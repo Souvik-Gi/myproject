@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="392" viewBox="0 0 940 392">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <text fill="#0E6248" font-family="Helvetica" font-size="12" transform="translate(-250.000000, -2790.000000) translate(250.000000, 2787.000000)">
+                    <tspan x="35.663" y="11">READING </tspan> <tspan x="24.993" y="25">RESOURCES</tspan>
+                </text>
+                <text fill="#272727" font-family="Helvetica" font-size="20" transform="translate(-250.000000, -2790.000000) translate(250.000000, 2787.000000)">
+                    <tspan x=".5" y="42">Quisque laoreet eros ut elementum molestie. Morbi posuere non ante non </tspan> <tspan x=".5" y="66">porta. Vivamus posuere lectus sed urna commodo gravida.</tspan>
+                </text>
+                <g transform="translate(-250.000000, -2790.000000) translate(250.000000, 2787.000000) translate(0.000000, 127.000000)">
+                    <rect width="279" height="267" x=".5" y=".5" fill="#FFF" stroke="#DDD" rx="8"/>
+                    <text fill="#272727" font-family="Helvetica" font-size="18">
+                        <tspan x="24" y="44">Nulla eu rutrum enim</tspan>
+                    </text>
+                    <text fill="#272727" font-family="Helvetica" font-size="16">
+                        <tspan x="24" y="71">Ut bibendum sagittis nibh, eget </tspan> <tspan x="24" y="93">finibus sapien ornare sed. </tspan> <tspan x="24" y="115">Mauris eget elit pharetra neque </tspan> <tspan x="24" y="137">dictum bibendum at vestibulum </tspan> <tspan x="24" y="159">sapien. Proin sodales, ex ac </tspan> <tspan x="24" y="181">ornare hendrerit, nulla nisl </tspan> <tspan x="24" y="203">semper leo</tspan>
+                    </text>
+                    <g transform="translate(84.000000, 204.000000)">
+                        <rect width="112" height="40" fill="#0E6248" rx="4"/>
+                        <text fill="#FFF" font-family="Helvetica" font-size="16">
+                            <tspan x="20.77" y="25">Download</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g transform="translate(-250.000000, -2790.000000) translate(250.000000, 2787.000000) translate(330.000000, 127.000000)">
+                    <rect width="279" height="267" x=".5" y=".5" fill="#FFF" stroke="#DDD" rx="8"/>
+                    <text fill="#272727" font-family="Helvetica" font-size="18">
+                        <tspan x="24" y="44">Nulla eu rutrum enim</tspan>
+                    </text>
+                    <text fill="#272727" font-family="Helvetica" font-size="16">
+                        <tspan x="24" y="71">Ut bibendum sagittis nibh, eget </tspan> <tspan x="24" y="93">finibus sapien ornare sed. </tspan> <tspan x="24" y="115">Mauris eget elit pharetra neque </tspan> <tspan x="24" y="137">dictum bibendum at vestibulum </tspan> <tspan x="24" y="159">sapien. Proin sodales, ex ac </tspan> <tspan x="24" y="181">ornare hendrerit, nulla nisl </tspan> <tspan x="24" y="203">semper leo</tspan>
+                    </text>
+                    <g transform="translate(84.000000, 204.000000)">
+                        <rect width="112" height="40" fill="#0E6248" rx="4"/>
+                        <text fill="#FFF" font-family="Helvetica" font-size="16">
+                            <tspan x="20.77" y="25">Download</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g transform="translate(-250.000000, -2790.000000) translate(250.000000, 2787.000000) translate(660.000000, 127.000000)">
+                    <rect width="279" height="267" x=".5" y=".5" fill="#FFF" stroke="#DDD" rx="8"/>
+                    <text fill="#272727" font-family="Helvetica" font-size="18">
+                        <tspan x="24" y="44">Nulla eu rutrum enim</tspan>
+                    </text>
+                    <text fill="#272727" font-family="Helvetica" font-size="16">
+                        <tspan x="24" y="71">Ut bibendum sagittis nibh, eget </tspan> <tspan x="24" y="93">finibus sapien ornare sed. </tspan> <tspan x="24" y="115">Mauris eget elit pharetra neque </tspan> <tspan x="24" y="137">dictum bibendum at vestibulum </tspan> <tspan x="24" y="159">sapien. Proin sodales, ex ac </tspan> <tspan x="24" y="181">ornare hendrerit, nulla nisl </tspan> <tspan x="24" y="203">semper leo</tspan>
+                    </text>
+                    <g transform="translate(84.000000, 204.000000)">
+                        <rect width="112" height="40" fill="#0E6248" rx="4"/>
+                        <text fill="#FFF" font-family="Helvetica" font-size="16">
+                            <tspan x="20.77" y="25">Download</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g transform="translate(-250.000000, -2790.000000) translate(250.000000, 2787.000000) translate(740.000000, 27.000000)">
+                    <rect width="200" height="40" fill="#0E6248" rx="4"/>
+                    <text fill="#FFF" font-family="Helvetica" font-size="16">
+                        <tspan x="36.871" y="25">Become a partner</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

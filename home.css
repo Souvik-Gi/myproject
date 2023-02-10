@@ -1,0 +1,192 @@
+
+      :root {
+        --color-container: #fbf8f6;
+        --color-primary: #fff;
+        --color-button: #0e6248;
+        --color-secondary: #272727;
+        --color-hover: #09b322;
+      }
+      html {
+        font-size: 62.5%;
+      }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+      .home {
+        width: 144rem;
+        height: 380.6rem;
+        background-color: var(--color-primary);
+      }
+      .hero {
+        width: 144rem;
+        height: 68rem;
+        object-fit: contain;
+      }
+      .dd {
+        transition: transform 1s;
+      }
+      .dd:hover {
+        transform: scale(1.05);
+      }
+      .header {
+        width: 94rem;
+        height: 5.2rem;
+        transform: translateY(-65.5rem) translateX(25rem);
+      }
+      .heading {
+        display: inline-block;
+        width: 52rem;
+        height: 8rem;
+        font-size: 36px;
+        font-weight: bold;
+        font-family: "Lato", sans-serif;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.11;
+        letter-spacing: normal;
+        text-align: center;
+        transform: translateY(-45.5rem) translateX(45.8rem);
+        color: var(--color-primary);
+      }
+      .btn-color-primary {
+        width: 20rem;
+        height: 4rem;
+        margin: 2.4rem 4.4rem 0 27rem;
+        padding: 1rem 2.8rem 1.1rem 2.9rem;
+        border-radius: 4px;
+        background-color: var(--color-button);
+        cursor: pointer;
+        transform: translateY(-45rem) translateX(25rem);
+      }
+      .btn-color-primary:hover, .btn-color-secondary:hover {
+        background-color: var(--color-hover);
+      }
+      .btn-color-secondary {
+        width: 12.8rem;
+        height: 4rem;
+        margin: 2.4rem 29.8rem 0 4.4rem;
+        padding: 1rem 2.3rem 1.1rem;
+        border-radius: 4px;
+        background-color: var(--color-button);
+        cursor: pointer;
+        transform: translateY(-51.5rem) translateX(72rem);
+      }
+      .btn-text-primary {
+        width: 14.3rem;
+        height: 1.9rem;
+        font-family: "Lato", sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: var(--color-primary);
+      }
+      .btn-text-secondary {
+        width: 8.2rem;
+        height: 1.9rem;
+        font-family: "Lato", sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: var(--color-primary);
+      }
+      .container {
+        width: 144rem;
+        height: 12rem;
+        margin: 68rem 0 12rem;
+        padding: 3.8rem 32rem;
+        background-color: var(--color-container);
+      }
+      .The-Earth-Heart-Foun {
+        width: 80rem;
+        height: 4.4rem;
+        font-family: "Lato", sans-serif;
+        font-size: 18px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: var(--color-secondary);
+        position: relative;
+        bottom: 67rem;
+      }
+      .align {
+        padding-left: 7rem;
+      }
+      .section_what_we_do {
+        width: 94.1rem;
+        height: 56.7rem;
+        margin: 120px 249.5px;
+        transform: translateY(-69rem);
+      }
+      .resize {
+        transition: transform 0.8s;
+      }
+      .resize:hover {
+        transform: translateX(5rem);
+      }
+      .section_stats {
+        width: 94.2rem;
+        height: 12.8rem;
+        margin: 12rem 24.9rem 7rem;
+        object-fit: contain;
+        transform: translateY(-70rem);
+      }
+      .ss {
+        transition: transform 0.8s;
+      }
+      .ss:hover {
+        transform: scale(1.2);
+      }
+      .section_gallery {
+        width: 144rem;
+        height: 38.2rem;
+        margin: 7rem 0 10rem;
+        object-fit: contain;
+        transform: translateY(-70rem);
+      }
+      .gg {
+        transition: transform 1s;
+      }
+      .gg:hover {
+        transform: scale(1.2);
+      }
+      .section_donate {
+        width: 93.8rem;
+        height: 34rem;
+        margin: 10rem 25.2rem 16rem 25rem;
+        object-fit: contain;
+        transform: translateY(-72rem);
+      }
+      .section_reading_resources {
+        width: 94rem;
+        height: 39.5rem;
+        margin: 16rem 25rem 12rem;
+        object-fit: contain;
+        transform: translateY(-70rem);
+      }
+      .section_newsletter {
+        width: 94rem;
+        height: 20rem;
+        margin: 12rem 25rem 10.4rem;
+        object-fit: contain;
+        transform: translateY(-75rem);
+      }
+      .footer {
+        width: 144rem;
+        height: 20rem;
+        margin: 10.4rem 0 0;
+        object-fit: contain;
+        transform: translateY(-68rem);
+      }

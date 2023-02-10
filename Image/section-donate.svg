@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="958" height="380" viewBox="0 0 958 380">
+    <defs>
+        <filter id="47gajhdj0a" width="115.8%" height="117.6%" x="-7.9%" y="-8.8%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.062745098 0 0 0 0 0.447058824 0 0 0 0 0.325490196 0 0 0 0.16 0"/>
+        </filter>
+        <rect id="pcrfe5d2xb" width="380" height="340" x="0" y="0" rx="4"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <text fill="#272727" font-family="Helvetica" font-size="24" transform="translate(-250.000000, -2267.000000) translate(250.000000, 2287.000000)">
+                    <tspan x="0" y="23">Want to help? We are always in need of </tspan> <tspan x="0" y="52">donations, vitae ex quam. Quisque nulla </tspan> <tspan x="0" y="81">purus, elementum eu nunc at, cursus </tspan> <tspan x="0" y="110">finibus tortor. </tspan>
+                </text>
+                <g>
+                    <g transform="translate(-250.000000, -2267.000000) translate(250.000000, 2287.000000) translate(558.000000, 0.000000)">
+                        <use fill="#000" filter="url(#47gajhdj0a)" xlink:href="#pcrfe5d2xb"/>
+                        <rect width="379" height="339" x=".5" y=".5" fill="#FFF" stroke="#FBF8F6" stroke-linejoin="square" rx="4"/>
+                    </g>
+                    <g transform="translate(-250.000000, -2267.000000) translate(250.000000, 2287.000000) translate(558.000000, 0.000000) translate(26.000000, 29.000000)">
+                        <rect width="331" height="39" x=".5" y="21.5" fill="#FFF" stroke="#DDD" rx="4"/>
+                        <text fill="#272727" font-family="Helvetica" font-size="14">
+                            <tspan x="0" y="14">Name:</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(-250.000000, -2267.000000) translate(250.000000, 2287.000000) translate(558.000000, 0.000000) translate(26.000000, 106.000000)">
+                        <rect width="331" height="39" x=".5" y="21.5" fill="#FFF" stroke="#DDD" rx="4"/>
+                        <text fill="#272727" font-family="Helvetica" font-size="14">
+                            <tspan x="0" y="14">Email:</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(-250.000000, -2267.000000) translate(250.000000, 2287.000000) translate(558.000000, 0.000000) translate(26.000000, 183.000000)">
+                        <rect width="331" height="39" x=".5" y="21.5" fill="#FFF" stroke="#DDD" rx="4"/>
+                        <text fill="#272727" font-family="Helvetica" font-size="16">
+                            <tspan x="16" y="46">PHP</tspan>
+                        </text>
+                        <path fill="#272727" fill-rule="nonzero" d="M60.656 44.056L64.656 40.056 56.656 40.056z"/>
+                        <path stroke="#DDD" d="M81.5 21.5L81.5 60.5"/>
+                        <text fill="#272727" font-family="Helvetica" font-size="14">
+                            <tspan x="0" y="14">Amount:</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g transform="translate(-250.000000, -2267.000000) translate(250.000000, 2287.000000) translate(584.000000, 270.000000)">
+                    <rect width="120" height="40" fill="#0E6248" rx="4"/>
+                    <text fill="#FFF" font-family="Helvetica" font-size="16">
+                        <tspan x="21" y="25">Donate</tspan>
+                    </text>
+                    <g fill="#FFF">
+                        <path d="M7.93 0c4.376 0 7.93 3.553 7.93 7.93 0 4.376-3.554 7.93-7.93 7.93C3.553 15.86 0 12.305 0 7.93 0 3.553 3.553 0 7.93 0zm0 1.094c-3.773 0-6.836 3.063-6.836 6.836s3.063 6.836 6.836 6.836 6.836-3.063 6.836-6.836-3.063-6.836-6.836-6.836zm-.063 3.81c1.095-1.096 2.875-1.096 3.97 0 1.092 1.091 1.096 2.861.013 3.958l-3.983 3.983-3.971-3.97-.131-.14c-.963-1.103-.92-2.78.13-3.831 1.097-1.096 2.876-1.096 3.972 0h-.002z" transform="translate(83.000000, 13.000000)"/>
+                    </g>
+                </g>
+                <text fill="#272727" font-family="Helvetica" font-size="16" transform="translate(-250.000000, -2267.000000) translate(250.000000, 2287.000000)">
+                    <tspan x="0" y="155">Mauris eget elit pharetra neque dictum bibendum at </tspan> <tspan x="0" y="177">vestibulum sapien. Proin sodales, ex ac ornare hendrerit, </tspan> <tspan x="0" y="199">nulla nisl semper leo.</tspan>  <tspan x="0" y="243">Nulla porta dui non libero viverra mattis a nec velit. Integer </tspan> <tspan x="0" y="265">nulla tellus, dignissim eget posuere a, lobortis in justo. </tspan> <tspan x="0" y="287">Quisque hendrerit egestas neque. Donec turpis sapien, </tspan> <tspan x="0" y="309">dignissim in augue ac, venenatis interdum justo. </tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
